@@ -4,7 +4,7 @@ from utils import *
 from discord.ext import commands
 import discord
 
-TOKEN = "MTAyNTgxOTEwMTMyNDY0MDQxNw.GnGDw6.L9Ml1SWeEXHXAr1Hj5PAT3JiZRb6DFObFw0YQE"
+TOKEN = 'your_token_goes_here'
 command_prefix = '%'
 
 bot = commands.Bot(command_prefix, intents=discord.Intents.all())
